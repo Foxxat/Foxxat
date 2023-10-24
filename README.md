@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on life
 - 📫 How to reach me, check your nearest treehole.
 
-Also see https://github.com/Wharfs for more completed projects.
+_See https://github.com/Wharfs for more completed projects._
 
 <!---
 Foxxat/Foxxat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
